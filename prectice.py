@@ -1,0 +1,7 @@
+a=abs(90.34)
+print(a)
+su=sum([90,90,89])
+print(su)
+sultan=list(reversed(['string']))
+print(sultan)
+print('hello', 'world', sep="%")
